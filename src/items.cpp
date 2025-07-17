@@ -275,7 +275,7 @@ bool Items::loadFromOtb(const std::string& file)
 		}
 	}
 
-	if (majorVersion == 0xFFFFFFFF) {
+	/*if (majorVersion == 0xFFFFFFFF) {
 		std::cout << "[Warning - Items::loadFromOtb] items.otb using generic client version." << std::endl;
 	} else if (majorVersion != 3) {
 		std::cout << "Old version detected, a newer version of items.otb is required." << std::endl;
@@ -283,7 +283,7 @@ bool Items::loadFromOtb(const std::string& file)
 	} else if (minorVersion < CLIENT_VERSION_1098) {
 		std::cout << "A newer version of items.otb is required." << std::endl;
 		return false;
-	}
+	}*/
 
 	for (auto& itemNode : root.children) {
 		PropStream stream;
