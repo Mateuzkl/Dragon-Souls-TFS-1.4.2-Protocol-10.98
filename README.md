@@ -1,18 +1,59 @@
-forgottenserver [![Build Status](https://github.com/otland/forgottenserver/actions/workflows/build-vcpkg.yml/badge.svg?branch=master)](https://github.com/otland/forgottenserver/actions/workflows/build-vcpkg.yml "vcpkg build status") [![Build Status](https://github.com/otland/forgottenserver/actions/workflows/docker-image.yml/badge.svg?branch=master)](https://github.com/otland/forgottenserver/actions/workflows/docker-image.yml "Docker image build status")
-===============
+# Dragon Souls 1.4.2 - Servidor Baseado em O Senhor dos Anéis
 
-The Forgotten Server is a free and open-source MMORPG server emulator written in C++. It is a fork of the [OpenTibia Server](https://github.com/opentibia/server) project. To connect to the server, you can use [OTClient](https://github.com/edubart/otclient).
+**Dragon Souls** é um servidor de Tibia baseado no universo de **O Senhor dos Anéis**, recriado com fidelidade e paixão sobre a engine **TFS 1.4.2 (protocolo 1098)**, proporcionando uma experiência moderna, fluida e nostálgica ao mesmo tempo. Nosso objetivo é unir a magia de *Middle-earth* com a jogabilidade clássica da era 7.92.
 
-### Getting Started
+## 🌟 Por que TFS 1.4.2 com protocolo 1098?
 
-* [Compiling](https://github.com/otland/forgottenserver/wiki/Compiling), alternatively download [releases](https://github.com/otland/forgottenserver/releases)
-* [Scripting Reference](https://github.com/otland/forgottenserver/wiki/Script-Interface)
-* [Contributing](https://github.com/otland/forgottenserver/wiki/Contributing)
+Optamos por utilizar a engine **TFS 1.4.2 com protocolo 1098** por diversos motivos:
 
-### Support
+- Versão mais atualizada, com maior desempenho e estabilidade.
+- Jogabilidade mais leve, sem travamentos e com melhor compatibilidade.
+- Plataforma moderna, ideal para servidores sérios e escaláveis.
 
-If you need help, please visit the [support forum on OTLand](https://otland.net/forums/support.16/). Our issue tracker is not a support forum, and using it as one will result in your issue being closed. If you were unable to get assistance in the support forum, you should consider [becoming a premium user on OTLand](https://otland.net/account/upgrades) which grants you access to the premium support forum and supports OTLand financially.
+Apesar de moderno, estamos trazendo **tudo fiel ao Tibia 7.92**, como **delays, exhaust, sistema de combate, loot, magias**, e mais — tudo baseado no clássico **Evolution by Xiadozu**. Assim, unimos o melhor dos dois mundos: nostalgia e performance.
 
-### Issues
+## ⚔️ Funcionalidades
 
-We use the [issue tracker on GitHub](https://github.com/otland/forgottenserver/issues). Keep in mind that everyone who is watching the repository gets notified by e-mail when there is activity, so be thoughtful and avoid writing comments that aren't meaningful for an issue (e.g. "+1"). If you'd like for an issue to be fixed faster, you should either fix it yourself and submit a pull request, or place a bounty on the issue.
+- Escolha entre raças icônicas: **Elfos, Anões e Humanos**.
+- Explore locais lendários: **Rivendell, Minas Tirith, Mordor** e outros.
+- Enfrente criaturas épicas: **Orcs, Nazgûls, Balrogs**.
+- Realize **missões épicas** inspiradas nos livros e filmes.
+- Forme **alianças** e participe de **batalhas PvP** entre as raças.
+- Desenvolva habilidades únicas e colete **itens raros**.
+
+## 🛠️ Tarefas Concluídas
+
+- Implementação de personagens icônicos: **Aragorn, Legolas, Gimli**.
+- Sistemas de **combate e habilidades personalizados** por raça.
+- Missões clássicas recriadas com fidelidade.
+- Mapas detalhados e design de locais inspirados em Middle-earth.
+
+## 🗺️ Mapas
+
+### 🌿 Rivendell
+
+Cidade élfica escondida nas montanhas, conhecida por sua beleza e sabedoria.
+
+### 🏰 Minas Tirith
+
+Capital de Gondor e fortaleza imponente construída em um platô montanhoso.
+
+### 🌋 Mordor
+
+Terra sombria e devastada, governada por Sauron e seus servos malignos.
+
+## 👨‍💻 Criado por
+
+Desenvolvido por:
+
+- [@Mateuzkl](https://github.com/Mateuzkl)
+
+## 🤝 Contribuições
+
+Este projeto é **feito pela comunidade e para a comunidade**.
+
+Se você é desenvolvedor, designer, mapper ou fã de Tibia e Tolkien, **contribua com o projeto**! Estamos abertos a pull requests, sugestões e melhorias. Vamos manter o servidor estável, fiel ao 7.92 e em constante evolução com sua ajuda.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
